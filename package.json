@@ -1,0 +1,11 @@
+{
+  "name": "screenshot-generator",
+  "version": "1.0.0",
+  "description": "Generates arbitrary screenshots using Nightmare.js",
+  "main": "screenshot.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "nightmare": "2.10.0"
+  }
+}
